@@ -1,16 +1,18 @@
-
 <?php
 $name="Daniel";
 $age=22;
 $favorite_color="Crimson";
 echo "Hello, my name is " . $name . " I am " . $age . " years old. My favorite color is " . $favorite_color . ".";
 ?>
+
+
 <?php
 echo "\nHe said \"PHP is fun!\" and left.";
 ?>
 <?php
 echo " \nFirst line\nSecond line";
 ?>
+
 
 <?php
 $greeting = 'Hello';
@@ -19,11 +21,13 @@ echo "\nWelcome to the PHP world! ";
 Echo "\nYour age is " . $age;
 ?>
 
+
 <?php
 echo "\nWelcome to PHP!";
 $name = "John";
 echo "\nHello " , $name;
 ?>
+
 
 <?php
 $price = 50;
